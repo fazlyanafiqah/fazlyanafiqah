@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Web Developer
 
-I'm a Software Engineering student at Universiti Tun Hussein Onn Malaysia (UTHM), passionate about building modern, user-friendly web development.
+I'm a Software Engineering student at Universiti Tun Hussein Onn Malaysia (UTHM), passionate about building modern and user-friendly web development.
 
 I enjoy turning ideas into functional digital experiences through **development, UI/UX design, and problem solving**.
 
@@ -76,10 +76,10 @@ A personal portfolio website showcasing my projects, skills and experience.
 
 ## 🤝 Let's Connect
 
-* 🌐 Portfolio
-* 💼 LinkedIn
-* 📧 Email
-* 🐙 GitHub
+* 🌐 fazlyana-portfolio.vercel.app
+* 💼 linkedin.com/in/nurfazlyana/
+* 📧 fazlyanafiqah@gmail.com
+* 🐙 github.com/fazlyanafiqah
 
 ---
 
