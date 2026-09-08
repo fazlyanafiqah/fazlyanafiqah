@@ -1,4 +1,4 @@
-# Hi, I'm Fazlyanafiqah 👋
+# Hi, I'm Faz 👋
 
 ### Software Engineering Student | Web Developer
 
