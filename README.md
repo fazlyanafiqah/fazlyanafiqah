@@ -1,8 +1,8 @@
 # Hi, I'm Fazlyanafiqah 👋
 
-### Software Engineering Student | Web Developer | UI/UX Enthusiast
+### Software Engineering Student | Web Developer
 
-I'm a Software Engineering student at Universiti Tun Hussein Onn Malaysia (UTHM), passionate about building modern, user-friendly web and mobile applications.
+I'm a Software Engineering student at Universiti Tun Hussein Onn Malaysia (UTHM), passionate about building modern, user-friendly web development.
 
 I enjoy turning ideas into functional digital experiences through **development, UI/UX design, and problem solving**.
 
@@ -13,7 +13,7 @@ I enjoy turning ideas into functional digital experiences through **development,
 * 🎓 Bachelor of Computer Science (Software Engineering) with Honours
 * 💻 Interested in Web Development & UI/UX Design
 * 📱 Experienced with Flutter & Firebase
-* 🌱 Currently learning and improving my frontend development skills
+* 🌱 Currently learning and improving my frontend and backend development skills
 * 🎨 Exploring UI design with Figma
 * 💼 Currently completing my Software Engineering internship
 
@@ -46,14 +46,6 @@ I enjoy turning ideas into functional digital experiences through **development,
 AI-Based Bouquet Recommendation System for a florist e-commerce platform.
 
 **Tech:** React · Python · Supabase · Stripe · Vercel · Render
-
----
-
-### 📱 Worker Attendance Management
-
-A mobile attendance management application with worker attendance tracking, QR scanning, leave requests and staff management.
-
-**Tech:** Flutter · Dart · Firebase · Cloud Firestore
 
 ---
 
