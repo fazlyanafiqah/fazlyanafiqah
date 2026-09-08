@@ -68,16 +68,10 @@ A personal portfolio website showcasing my projects, skills and experience.
 
 ---
 
-## 📊 GitHub
-
-<!-- GitHub statistics will be added here -->
-
----
-
 ## 🤝 Let's Connect
 
 * 🌐 fazlyana-portfolio.vercel.app
-* 💼 linkedin.com/in/nurfazlyana/
+* 💼 linkedin.com/in/nurfazlyana
 * 📧 fazlyanafiqah@gmail.com
 * 🐙 github.com/fazlyanafiqah
 
